@@ -20,5 +20,5 @@
 ![18](screenshots/18.PNG)<br><br>
 ![19](screenshots/19.PNG)<br><br>
 ![20](screenshots/20.PNG)<br><br>
-**Tranfer learning is very much worth considering if you're training a image classifier**
+**Tranfer learning is very much worth considering if you're training an image classifier**
 
