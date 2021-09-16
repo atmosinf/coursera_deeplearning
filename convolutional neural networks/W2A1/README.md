@@ -21,4 +21,22 @@
 ![19](screenshots/19.PNG)<br><br>
 ![20](screenshots/20.PNG)<br><br>
 **Tranfer learning is very much worth considering if you're training an image classifier**
+![21](screenshots/21.PNG)<br><br>
+![22](screenshots/22.PNG)<br><br>
+![23](screenshots/23.PNG)<br><br>
+![24](screenshots/24.PNG)<br><br>
+![25](screenshots/25.PNG)<br><br>
+**Ensembling and multi-crop are almost never used in production, because of performance. They're usually only used in competitions**
+![26](screenshots/26.PNG)<br><br>
+
+## Quiz <br>
+
+![q1](screenshots/q1.PNG)<br><br>
+![q2](screenshots/q2.PNG)<br><br>
+![q3](screenshots/q3.PNG)<br><br>
+![q4](screenshots/q4.PNG)<br><br>
+![q5](screenshots/q5.PNG)<br><br>
+![q6](screenshots/q6.PNG)<br><br>
+![q7](screenshots/q7.PNG)<br><br>
+![q8](screenshots/q8.PNG)<br><br>
 
