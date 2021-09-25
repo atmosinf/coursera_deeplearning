@@ -25,10 +25,7 @@
 ![23](screenshots/23.PNG)<br><br>
 ![24](screenshots/24.PNG)<br><br>
 ![25](screenshots/25.PNG)<br><br>
-![26](screenshots/26.PNG)<br><br>
-![27](screenshots/27.PNG)<br><br>
-**The disadvantage of the bidirectional RNN is that, you do need the entire sequence of data before you can make predictions anywhere. So, for example, if you're building a speech recognition system then BRNN will let you take into account the entire speech other friends. But if you use this straightforward implementation, you need to wait for the person to stop talking to get the entire utterance before you can actually process it, and make a speech recognition prediction. So the real time speech recognition applications, there is somewhat more complex models as well rather than just using the standard by the rational RNN as you're seeing here. But for a lot of natural language processing applications where you can get the entire sentence all at the same time, the standard BRN and algorithm is actually very effective.**<br>
-![28](screenshots/28.PNG)<br><br>
+
 
 ## Quiz <br>
 
